@@ -1,0 +1,14 @@
+/Users/woutvandoninck/Projects/testOpdracht/testOpdracht/bin/Debug/net7.0/ExamenOpdracht
+/Users/woutvandoninck/Projects/testOpdracht/testOpdracht/bin/Debug/net7.0/ExamenOpdracht.deps.json
+/Users/woutvandoninck/Projects/testOpdracht/testOpdracht/bin/Debug/net7.0/ExamenOpdracht.runtimeconfig.json
+/Users/woutvandoninck/Projects/testOpdracht/testOpdracht/bin/Debug/net7.0/ExamenOpdracht.dll
+/Users/woutvandoninck/Projects/testOpdracht/testOpdracht/bin/Debug/net7.0/ExamenOpdracht.pdb
+/Users/woutvandoninck/Projects/testOpdracht/testOpdracht/obj/Debug/net7.0/ExamenOpdracht.GeneratedMSBuildEditorConfig.editorconfig
+/Users/woutvandoninck/Projects/testOpdracht/testOpdracht/obj/Debug/net7.0/ExamenOpdracht.AssemblyInfoInputs.cache
+/Users/woutvandoninck/Projects/testOpdracht/testOpdracht/obj/Debug/net7.0/ExamenOpdracht.AssemblyInfo.cs
+/Users/woutvandoninck/Projects/testOpdracht/testOpdracht/obj/Debug/net7.0/ExamenOpdracht.csproj.CoreCompileInputs.cache
+/Users/woutvandoninck/Projects/testOpdracht/testOpdracht/obj/Debug/net7.0/ExamenOpdracht.dll
+/Users/woutvandoninck/Projects/testOpdracht/testOpdracht/obj/Debug/net7.0/refint/ExamenOpdracht.dll
+/Users/woutvandoninck/Projects/testOpdracht/testOpdracht/obj/Debug/net7.0/ExamenOpdracht.pdb
+/Users/woutvandoninck/Projects/testOpdracht/testOpdracht/obj/Debug/net7.0/ExamenOpdracht.genruntimeconfig.cache
+/Users/woutvandoninck/Projects/testOpdracht/testOpdracht/obj/Debug/net7.0/ref/ExamenOpdracht.dll
